@@ -9,3 +9,13 @@
 My goal is to learn new things and be in the spirit of the times.
 
 IT Engineer, html, css, php, mysql, apache, cpanel, phpmyadmin, linux, windows, mac os, terminal, photoshop, ilustrator, indesign, logic, samplitude, final cut, premiere pro, and much more
+
+I hope to fill this section with relevant examples of work as the learning progresses.
+
+https://www.codewars.com/users/mkurnyshov
+
+2015 - Moscow State Forest University, Moscow
+Landscape architecture, Gardening and landscape construction (engineer)
+
+2021 - EPAM _ Java training
+2022 - RS School _ JS training (From EPAM)
