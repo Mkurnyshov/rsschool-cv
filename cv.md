@@ -19,3 +19,5 @@ Landscape architecture, Gardening and landscape construction (engineer)
 
 2021 - EPAM _ Java training
 2022 - RS School _ JS training (From EPAM)
+
+My English is not very well, but I am working on this task)) ##A1/A2 Level 
