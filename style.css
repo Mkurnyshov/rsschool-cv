@@ -29,3 +29,7 @@ align-items: center;
   background-color: #242424;
   padding: 30px;
 }
+
+.img, .name, .contact {
+  margin-bottom: 20px;
+}
