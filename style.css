@@ -30,6 +30,6 @@ align-items: center;
   padding: 30px;
 }
 
-.img, .name, .contact, .aboutme {
+.img, .name, .contact, .aboutme, .skills, .mywork, .myeducation, .enlevel {
   margin-bottom: 20px;
 }
