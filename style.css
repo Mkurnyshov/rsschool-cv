@@ -34,3 +34,21 @@ align-items: center;
 .img, .name, .contact, .aboutme, .skills, .mywork, .myeducation, .enlevel {
   margin-bottom: 20px;
 }
+
+a:link, a:visited {
+    background-color: #1c1919;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 15px 10px;
+    text-align: left;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: left;
+    cursor: pointer;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: #760808;
+}
